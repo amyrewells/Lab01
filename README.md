@@ -2,11 +2,9 @@
 
 ## Lab description
 
-In this hands-on lab, you will explore the Iris flower dataset and practise making decisions about how to understand and visualize a dataset.
+In this lab, you will explore the Iris flower dataset and practise making decisions about how to understand and visualize a dataset.
 
-The notebook gives you a starting point, but it does not prescribe one exact analysis. Choose questions that interest you, try different summaries and visualizations, and use the results to decide what to investigate next. You do not need to complete every item.
-
-The Iris dataset contains measurements from 150 flowers belonging to three species. Each flower has four numeric measurements and one categorical species label.
+The notebook gives a broad path; choose questions that interest you, try different summaries and visualizations, and use the results to decide what to investigate next. You do not need to complete every item.
 
 **Packages used:** `pandas` and `matplotlib`
 
@@ -16,14 +14,14 @@ The Iris dataset contains measurements from 150 flowers belonging to three speci
 
 By working through this lab, you will practise:
 
-- inspecting the structure and contents of a dataset;
-- identifying numeric and categorical attributes;
-- calculating and interpreting descriptive statistics;
-- exploring individual attributes;
-- exploring relationships between attributes;
-- comparing groups within a dataset;
-- choosing visualizations that match the question being investigated; and
-- using evidence from the data to support a conclusion.
+- inspecting the structure and contents of a dataset
+- identifying numeric and categorical attributes
+- calculating and interpreting descriptive statistics
+- exploring individual attributes
+- exploring relationships between attributes
+- comparing groups within a dataset
+- choosing visualizations that match the question being investigated
+- using evidence from the data to support a conclusion
 
 ## Lab checklist
 
@@ -38,3 +36,5 @@ Use this checklist as a guide. It is not necessary to complete every item.
 - [ ] Try different types of visualizations.
 - [ ] Decide which attributes appear most useful for distinguishing species.
 - [ ] Continue with any additional questions that interest you.
+
+Remeber to commit your changes often!
